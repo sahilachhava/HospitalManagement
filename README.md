@@ -1,9 +1,8 @@
 # HospitalManagement
 
 **Developed in 2020** <br />
-for college project <br /><br />
 
-*This hospital management software is developed for a college project, it is based on C++*<br />
+*Hospital management software was developed for learning, it is developed in C++*<br />
 
 **Demo User IDs**
 User Type | Password
